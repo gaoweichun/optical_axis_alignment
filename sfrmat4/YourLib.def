@@ -1,0 +1,8 @@
+LIBRARY YourLib
+EXPORTS
+YourLibInitialize
+YourLibInitializeWithHandlers
+YourLibTerminate
+YourLibPrintStackTrace
+mlxSfrmat5
+
